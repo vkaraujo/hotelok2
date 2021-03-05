@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #a60203 !important;
+  background-color: #bd5d38 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10019,8 +10019,8 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  color: #a60203;
-  background-color: #a60203;
+  color: #bd5d38;
+  background-color: #bd5d38;
 }
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
