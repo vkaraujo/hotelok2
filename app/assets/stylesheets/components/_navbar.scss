@@ -10,3 +10,18 @@
 .navbar-lewagon .navbar-brand img {
   width: 40px;
 }
+
+.nav-mobile {
+  font-weight: bold;
+}
+
+.navbar-custom { 
+  background-color: #a60203;
+} 
+/* Modify brand and text color */ 
+
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+  color: #a60203; 
+} 
+
